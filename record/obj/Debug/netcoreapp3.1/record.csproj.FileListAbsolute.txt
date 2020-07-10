@@ -1,0 +1,13 @@
+D:\Codeing\sui-chanStreamRecord\record\bin\Debug\netcoreapp3.1\record.exe
+D:\Codeing\sui-chanStreamRecord\record\bin\Debug\netcoreapp3.1\record.deps.json
+D:\Codeing\sui-chanStreamRecord\record\bin\Debug\netcoreapp3.1\record.runtimeconfig.json
+D:\Codeing\sui-chanStreamRecord\record\bin\Debug\netcoreapp3.1\record.runtimeconfig.dev.json
+D:\Codeing\sui-chanStreamRecord\record\bin\Debug\netcoreapp3.1\record.dll
+D:\Codeing\sui-chanStreamRecord\record\bin\Debug\netcoreapp3.1\record.pdb
+D:\Codeing\sui-chanStreamRecord\record\obj\Debug\netcoreapp3.1\record.csprojAssemblyReference.cache
+D:\Codeing\sui-chanStreamRecord\record\obj\Debug\netcoreapp3.1\record.AssemblyInfoInputs.cache
+D:\Codeing\sui-chanStreamRecord\record\obj\Debug\netcoreapp3.1\record.AssemblyInfo.cs
+D:\Codeing\sui-chanStreamRecord\record\obj\Debug\netcoreapp3.1\record.csproj.CoreCompileInputs.cache
+D:\Codeing\sui-chanStreamRecord\record\obj\Debug\netcoreapp3.1\record.dll
+D:\Codeing\sui-chanStreamRecord\record\obj\Debug\netcoreapp3.1\record.pdb
+D:\Codeing\sui-chanStreamRecord\record\obj\Debug\netcoreapp3.1\record.genruntimeconfig.cache
