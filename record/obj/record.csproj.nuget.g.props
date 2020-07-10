@@ -12,4 +12,13 @@
   <PropertyGroup>
     <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
   </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Content Include="$(NuGetPackageRoot)squirrelframework.mongodb\0.9.2\contentFiles\any\netstandard2.0\mongodb.json" Condition="Exists('$(NuGetPackageRoot)squirrelframework.mongodb\0.9.2\contentFiles\any\netstandard2.0\mongodb.json')">
+      <NuGetPackageId>SquirrelFramework.MongoDB</NuGetPackageId>
+      <NuGetPackageVersion>0.9.2</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Private>False</Private>
+      <Link>mongodb.json</Link>
+    </Content>
+  </ItemGroup>
 </Project>
